@@ -2,22 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web_avancado/animacoes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/animacoes/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/design-responsivo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/design-responsivo/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/js/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/media-types/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/media-types/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_avancado/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/comentarios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/condicionais/if.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/condicionais/switch-case.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/constantes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/loops/for.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/loops/foreach.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/loops/while.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/operadores/aritimeticos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/operadores/comparacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/operadores/concatenacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/operadores/logicos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/operadores/string.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/pagina.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/short-tags/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/tipos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/variaveis.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +61,22 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos\operadores" />
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="olamundo.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/desenvolvimento-full-stack-php/php-basico/olamundo.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.olamundo.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
