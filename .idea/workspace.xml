@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/erros/execoes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/erros/tipos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/funcoes/internas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/funcoes/personalizadas.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/inclusao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/dados/cursos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/exibicao/principal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/uteis/formatador.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/anonima.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/clone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/comparacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/interacao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/propriedades.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/referencia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Cliente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Fornecedor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/stdclass.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/this.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/tipos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/orientacao-objetos-1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,7 +60,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1" />
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos\operadores" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos" />
     </key>
@@ -82,7 +92,7 @@
       <workItem from="1640042732824" duration="592000" />
       <workItem from="1640045031433" duration="3471000" />
       <workItem from="1640111724432" duration="3075000" />
-      <workItem from="1640599035605" duration="6296000" />
+      <workItem from="1640599035605" duration="12726000" />
     </task>
     <servers />
   </component>
