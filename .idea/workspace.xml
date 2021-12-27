@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/erros/execoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/erros/tipos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/funcoes/internas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/funcoes/personalizadas.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/fundamentos/inclusao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/dados/cursos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/exibicao/principal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-basico/projeto-fundamentos/uteis/formatador.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-basico/fundamentos/loops/for.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-basico/fundamentos/loops/for.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-basico/fundamentos/loops/foreach.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-basico/fundamentos/loops/foreach.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +82,7 @@
       <workItem from="1640042732824" duration="592000" />
       <workItem from="1640045031433" duration="3471000" />
       <workItem from="1640111724432" duration="3075000" />
+      <workItem from="1640599035605" duration="6296000" />
     </task>
     <servers />
   </component>
