@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/autoload/autoload-psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/autoload/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/autoload/exemplo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/magicos/construtor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/namespace/conflito.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/namespace/declaracao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/namespace/relativo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/namespace/subniveis.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Email/Adaptadores/Mailgun/Adaptador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Email/Adaptadores/SES/Adaptador.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Email/Envio.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Email/Transporte.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Sms/Envio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/construtor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/extensao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/sobrecarga.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/anonima.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/anonima.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/clone.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/clone.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/comparacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/comparacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/interacao.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/interacao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/propriedades.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/propriedades.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/referencia.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/referencia.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Cliente.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Cliente.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Fornecedor.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Fornecedor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/stdclass.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/stdclass.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/this.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/this.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/tipos.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/diversos/tipos.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/orientacao-objetos-1/diversos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/orientacao-objetos-1/heranca" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -73,14 +53,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\heranca" />
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\diversos" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1" />
-      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\diversos" />
-      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos\operadores" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos" />
     </key>
@@ -109,7 +90,7 @@
       <workItem from="1640111724432" duration="3075000" />
       <workItem from="1640599035605" duration="13069000" />
       <workItem from="1640652983195" duration="87000" />
-      <workItem from="1640686324953" duration="7846000" />
+      <workItem from="1640686324953" duration="12073000" />
     </task>
     <servers />
   </component>
