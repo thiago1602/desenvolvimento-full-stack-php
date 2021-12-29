@@ -4,6 +4,7 @@ namespace App\Classes;
 class Eletrodomesticos extends Produto
 {
     public int $voltagem;
+    public string $descricao = "Eletrodomesticos em geral";
 
     public function __construct(string $titulo, int $voltagem)
     {

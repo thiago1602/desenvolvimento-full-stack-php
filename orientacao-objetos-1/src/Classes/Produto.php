@@ -8,7 +8,7 @@ class Produto
 
     public string $titulo;
 
-    public string $descricao = "Refrigerante";
+    public string $descricao = "Produtos em geral";
 
     public float $preco;
 
