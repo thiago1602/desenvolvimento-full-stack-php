@@ -4,6 +4,8 @@ namespace App\Classes;
 class Microondas extends Eletrodomesticos
 {
     public int $potencia;
+    public string $descricao = "Eletrodomesticos em geral";
+
 
     public function __construct(string $titulo, int $voltagem, int $potencia)
     {

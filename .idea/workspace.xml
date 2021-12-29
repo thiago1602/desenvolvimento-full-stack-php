@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/construtor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/extensao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/heranca/sobrecarga.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +87,8 @@
       <workItem from="1640111724432" duration="3075000" />
       <workItem from="1640599035605" duration="13069000" />
       <workItem from="1640652983195" duration="87000" />
-      <workItem from="1640686324953" duration="12073000" />
+      <workItem from="1640686324953" duration="12345000" />
+      <workItem from="1640735112914" duration="1456000" />
     </task>
     <servers />
   </component>
