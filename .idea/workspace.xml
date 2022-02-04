@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7987e11e-d62c-485b-b133-532fec057156" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/estatico/exemplo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Representante.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Vendedor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Interfaces/Imprimivel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/combinados.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/funcoes-verificacao/isset.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/operadores/incremento.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/operadores/null-coalescing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/operadores/spaceship.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/operadores/ternario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/tipos/float-double.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/tipos/formatacao-string.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/tipos/inteiros.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-recursos-essenciais/tipos/string.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Eletrodomesticos.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Microondas.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" beforeDir="false" afterPath="$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Produto.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/orientacao-objetos-1/heranca" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/xampp/htdocs/silex_parte1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,11 +69,11 @@
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src\Classes" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\src" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\orientacao-objetos-1\diversos" />
       <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos\operadores" />
-      <recent name="C:\Users\thiag\desenvolvimento-full-stack-php\php-basico\fundamentos" />
     </key>
   </component>
   <component name="RunManager">
@@ -89,6 +102,9 @@
       <workItem from="1640652983195" duration="87000" />
       <workItem from="1640686324953" duration="12345000" />
       <workItem from="1640735112914" duration="1456000" />
+      <workItem from="1643716792985" duration="3015000" />
+      <workItem from="1643801454107" duration="5567000" />
+      <workItem from="1643929482064" duration="4350000" />
     </task>
     <servers />
   </component>
@@ -106,6 +122,17 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/orientacao-objetos-1/src/Classes/Representante.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

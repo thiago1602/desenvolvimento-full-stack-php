@@ -1,6 +1,8 @@
 <?php
 
 namespace App\Classes;
+l;
+
 
 class Produto
 {
@@ -11,6 +13,8 @@ class Produto
     public string $descricao = "Produtos em geral";
 
     public float $preco;
+
+    private string $codigoBarras;
 
     public function __construct(string $titulo)
     {
